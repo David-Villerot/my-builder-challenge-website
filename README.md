@@ -1,11 +1,11 @@
 ## AWS Builder Challenge #2 – Build a Website on the Cloud
 
-**Fukuoka-based English educator turned AWS learner—bridging cultures … now bridging the cloud.**
+**Fukuoka-based English educator turned AWS learner. Bridging cultures … now bridging the cloud.**
 
 ---
 
 ## Project Overview
-This repository documents my journey through the **AWS Builder Challenge #2: Build a Website on the Cloud** —a 7-day guided experience where I deployed a secure, globally distributed website and integrated serverless features using AWS.
+This repository documents my journey through the **AWS Builder Challenge #2: Build a Website on the Cloud**,a 7-day guided experience where I deployed a secure, globally distributed website and integrated serverless features using AWS.
 
 ---
 
@@ -35,10 +35,10 @@ This repository documents my journey through the **AWS Builder Challenge #2: Bui
 ---
 
 ## Lessons Learned
-- **Cloud security is step one**—IAM and MFA aren’t optional.  
-- **Static sites can be powerful** when combined with global distribution.  
-- **Serverless architecture** makes adding dynamic features (like contact forms) simple and scalable.  
-- **Documentation is part of development**—it’s how learning becomes reusable.  
+- **Cloud security is step one** - IAM and MFA aren’t optional.  
+- **Static sites can be powerful** - when combined with global distribution.  
+- **Serverless architecture** - makes adding dynamic features (like contact forms) simple and scalable.  
+- **Documentation is part of development** - it’s how we can see our progress.  
 
 ---
 
@@ -49,7 +49,7 @@ This repository documents my journey through the **AWS Builder Challenge #2: Bui
 ---
 
 ## What’s Next?
-- Continue with future **AWS Builder Challenges** to deepen my cloud skills.  
-- Explore **Data Analysis projects** using Python, SQL, and cloud tools to combine my interest in cloud with data insights.  
+① Continue with future **AWS Builder Challenges** to deepen my cloud skills.  
+② Explore **Data Analysis projects** using Python, SQL, and cloud tools to combine my interest in cloud with data insights.  
 
 ---
