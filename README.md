@@ -1,7 +1,4 @@
-# my-builder-challenge-website
-My Builder Challenge website built on AWS
-
-# AWS Builder Challenge #2 – Build a Website on the Cloud
+## AWS Builder Challenge #2 – Build a Website on the Cloud
 
 **Fukuoka-based English educator turned AWS learner—bridging cultures … now bridging the cloud.**
 
