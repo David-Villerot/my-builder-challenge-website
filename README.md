@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-This repository documents my journey through the **AWS Builder Challenge #2: Build a Website on the Cloud**,a 7-day guided experience where I deployed a secure, globally distributed website and integrated serverless features using AWS.
+This repository documents my journey through the **AWS Builder Challenge #2: Build a Website on the Cloud**, a 7-day guided experience where I deployed a secure, globally distributed website and integrated serverless features using AWS.
 
 ---
 
